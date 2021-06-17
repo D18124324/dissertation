@@ -1,2 +1,2 @@
 # dissertation
-Data used in my dissertation process
+This repository contains the data used in my dissertation process. This data is split between training and test data sets and represents the already processed data from MILES, JHC, ELODIE and CFLIB, the data processing applied being described in Sharma et al (2019). The test data set consists of CFLIB data only, the training contains the MILES, JHC, ELODIE and CFLIB. ELODIE spectra files are prefixed with the string 'elodie', JHC is prefixed with the string 'jc' and MILES is prefixed with the string 's'.
